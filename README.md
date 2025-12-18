@@ -10,7 +10,7 @@ Play against a friend on the same computer with an interactive and responsive in
 - Highlights winning combination
 - Keeps track of turns
 - Reset button to start a new game
-- Simple and clean UI
+- Simple and clean UI.
 
 ## Demo
 Play Tic Tac Toe online: [Live Demo](https://kirtinanwanii.github.io/tic-tac-toe/)
