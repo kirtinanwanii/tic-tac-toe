@@ -6,10 +6,10 @@ A simple **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**.
 Play against a friend on the same computer with an interactive and responsive interface.
 
 ## Features
-- 2-player mode (X vs O)
-- Highlights winning combination
-- Keeps track of turns
-- Reset button to start a new game
+- 2-player mode (X vs O).
+- Highlights winning combination.
+- Keeps track of turns.
+- Reset button to start a new game.
 - Simple and clean UI.
 
 ## Demo
